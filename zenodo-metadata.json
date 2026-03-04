@@ -1,0 +1,18 @@
+{
+  "title": "Public Evidence Corpus for RT2513372 (HTML, v1)",
+  "upload_type": "dataset",
+  "description": "Static HTML corpus for document reference and machine reading. No JavaScript, no login.",
+  "creators": [
+    {
+      "name": "KAMNUANSIL, CHAWAKORN"
+    }
+  ],
+  "keywords": [
+    "VCAT",
+    "Residential Tenancies",
+    "Victoria",
+    "RT2513372"
+  ],
+  "license": "cc-by-4.0",
+  "version": "v1"
+}

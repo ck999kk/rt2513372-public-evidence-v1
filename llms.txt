@@ -1,0 +1,59 @@
+# Public Evidence Corpus (v1)
+
+This directory contains 53 static HTML files for reference and machine reading.
+No JavaScript and no authentication are required.
+
+## Files
+- /html/1803_243_Franklin_Street_Access_Co_Operation_Required.html :: 1803/243 Franklin Street - Access & Co-Operation Required
+- /html/1803_243_Franklin_Street_Melbourne_VIC_3000_Notice_of_Entry.html :: 1803/243 Franklin Street, Melbourne VIC 3000 - Notice of Entry
+- /html/Areal_monthly_after_hours_trades_list_update.html :: Areal monthly after-hours trades list update
+- /html/Courtesy_Reminder_Upcoming_Rent_Payment_for_1803_243_Franklin_Street_Melbourne_VIC_3000.html :: Courtesy Reminder: Upcoming Rent Payment for 1803/243 Franklin Street, Melbourne VIC 3000
+- /html/Document_Upload_for_RT2513372_at_unit_1803_243_Franklin_St_Melbourne_VIC_3004_CMS_0014206720.html :: Document Upload for RT2513372 at unit 1803/243 Franklin St, Melbourne, VIC, 3004 CMS:0014206720
+- /html/Follow_up_Formal_Demand_Statement_Regarding_Unresolved_Repairs_Unit_1803.html :: Follow-up – Formal Demand & Statement Regarding Unresolved Repairs (Unit 1803)
+- /html/Follow_up_on_Wall_and_Carpet_Damage_1803_243_Franklin_St.html :: Follow-up on Wall and Carpet Damage – 1803/243 Franklin St
+- /html/Hearing_reminder_for_1803_243_Franklin_Street_MELBOURNE_VIC_3000_R202518589_00.html :: Hearing reminder for 1803/243 Franklin Street, MELBOURNE, VIC, 3000 R202518589/00
+- /html/Hearing_scheduled_for_R202518589_00_1803_243_Franklin_Street_MELBOURNE_VIC_3000.html :: Hearing scheduled for R202518589/00 1803/243 Franklin Street, MELBOURNE, VIC, 3000
+- /html/Leak_Rectification_Works_Access_Required.html :: Leak Rectification Works – Access Required
+- /html/Leaking_Repaired_Confirmation_1803_243_Franklin_St.html :: Leaking Repaired Confirmation - 1803/243 Franklin St
+- /html/MASTER_INDEX_MERGED_SUBJECTS.html :: Master Index - Merged Subject Documents
+- /html/Non_Urgent_Maintenance_Request_1803_243_Franklin_st_Broken_Bed_Frame_with_Exposed_Nails.html :: Non-Urgent Maintenance Request (1803/243 Franklin st) – Broken Bed Frame with Exposed Nails
+- /html/Notice_to_vacate_1803_243_Franklin_Street_Melbourne_VIC_3000.html :: Notice to vacate - 1803/243 Franklin Street, Melbourne VIC 3000
+- /html/PS628109B_R_M_Water_Leak_Lot_1803A_243_253_263_Franklin_Street.html :: PS628109B - R&M - Water Leak Lot 1803A - 243, 253 & 263 Franklin Street
+- /html/R202518589_00_Summary_of_Proof.html :: R202518589/00 - Summary of Proof
+- /html/RDRV_Case_RT252398_33_Camberwell_Rd_Hawthorn_East_VIC_3123.html :: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123
+- /html/RDRV_Case_RT252398_33_Camberwell_Rd_Hawthorn_East_VIC_3123_CMS_0056400069.html :: RDRV - Case RT252398 - 33 Camberwell Rd, Hawthorn East, VIC, 3123 CMS:0056400069
+- /html/RDRV_Order_RT2513372_at_unit_1803_243_Franklin_St_Melbourne_VIC_3004_CMS_0014206719.html :: RDRV Order RT2513372 at unit 1803/243 Franklin St, Melbourne, VIC, 3004 CMS:0014206719
+- /html/RDRV_Order_RT252398_CMS_0014256123.html :: RDRV Order - RT252398 CMS:0014256123
+- /html/RT2513372_1803_243_Franklin_st.html :: RT2513372 1803/243 Franklin st
+- /html/RT2513372_Chawakorn_Kamnuansil_vs_Ting_Zhang_Hearing_Readiness_CMS_0053800898.html :: RT2513372 Chawakorn Kamnuansil vs Ting Zhang - Hearing Readiness CMS:0053800898
+- /html/RT2513372_Chawakorn_Kamnuansil_vs_Ting_Zhang_unit_1803_243_Franklin_St_Melbourne_VIC_3004_CMS_0053800826.html :: RT2513372 Chawakorn Kamnuansil vs Ting Zhang - unit 1803/243 Franklin St, Melbourne, VIC, 3004 CMS:0053800826
+- /html/RT2513372_Chawakorn_Kamnuansil_vs_Ting_Zhang_unit_1803_243_Franklin_St_Melbourne_VIC_3004_CMS_0053800840.html :: RT2513372 Chawakorn Kamnuansil vs Ting Zhang - unit 1803/243 Franklin St, Melbourne, VIC, 3004 CMS:0053800840
+- /html/RT2513372_Chawakorn_Kamnuansil_vs_Ting_Zhang_unit_1803_243_Franklin_St_Melbourne_VIC_3004_CMS_0053800843.html :: RT2513372 Chawakorn Kamnuansil vs Ting Zhang - unit 1803/243 Franklin St, Melbourne, VIC, 3004 CMS:0053800843
+- /html/Receipt_4298536587_for_unit_1803_243_Franklin_St_Melbourne_VIC_3004_CMS_0014285671.html :: Receipt 4298536587 for unit 1803/243 Franklin St, Melbourne, VIC, 3004 CMS:0014285671
+- /html/Receipt_of_payment_for_1803_243_Franklin_St_Melbourne_VIC_3000.html :: Receipt of payment for 1803/243 Franklin St, Melbourne VIC 3000
+- /html/Receipt_of_payment_for_1803_243_Franklin_Street_Melbourne_VIC_3000.html :: Receipt of payment for 1803/243 Franklin Street, Melbourne VIC 3000
+- /html/Remediation_Works_Start_Date_Confirmed.html :: Remediation Works – Start Date Confirmed
+- /html/Rent_Adjustment_Request_for_Clarification_and_Meeting_12_June.html :: Rent Adjustment – Request for Clarification and Meeting (12 June)
+- /html/Residential_Tenancies_Dispute_Submission_for_RT2513372_at_unit_1803_243_Franklin_St_Melbourne_VIC_3004_CMS_0014215482.html :: Residential Tenancies Dispute Submission for RT2513372 at unit 1803/243 Franklin St, Melbourne, VIC, 3004 CMS:0014215482
+- /html/Residential_Tenancies_Dispute_Submission_for_RT252398_CMS_0014253156.html :: Residential Tenancies Dispute Submission for RT252398 CMS:0014253156
+- /html/Residential_Tenancies_Request_Confirmation_for_RT2513372_at_unit_1803_243_Franklin_St_Melbourne_VIC_3004_CMS_0014207633.html :: Residential Tenancies Request Confirmation for RT2513372 at unit 1803/243 Franklin St, Melbourne, VIC, 3004 CMS:0014207633
+- /html/Routine_inspection_for_1803_243_Franklin_St_Melbourne_VIC_3000_Reminder.html :: Routine inspection for 1803/243 Franklin St, Melbourne VIC 3000 - Reminder
+- /html/Routine_inspection_scheduled_for_1803_243_Franklin_St_Melbourne_VIC_3000.html :: Routine inspection scheduled for 1803/243 Franklin St, Melbourne VIC 3000
+- /html/Second_Follow_up_Urgent_Water_Damage_Escalation_Immediate_Action_Required_Unit_1803.html :: Second Follow-up: Urgent Water Damage Escalation – Immediate Action Required (Unit 1803)
+- /html/Update_on_Leak_Inspection_1803_243_Franklin.html :: Update on Leak Inspection-1803/243 Franklin
+- /html/Update_on_Leak_Issue_at_1803_243_Franklin.html :: Update on Leak Issue at 1803/ 243 Franklin
+- /html/Update_to_RT252398_CMS_0014256122.html :: Update to RT252398 CMS:0014256122
+- /html/Urgent_Notice_to_vacate_for_rental_arrears_1803_243_Franklin_Street_Melbourne_VIC_3000.html :: Urgent - Notice to vacate for rental arrears 1803/243 Franklin Street, Melbourne VIC 3000
+- /html/Urgent_Water_Damage_on_Bedroom_Wall_Unit_1803.html :: Urgent: Water Damage on Bedroom Wall (Unit 1803)
+- /html/Urgent_rental_arrears_notification_for_1803_243_Franklin_Street_Melbourne_VIC_3000.html :: Urgent rental arrears notification for 1803/243 Franklin Street, Melbourne VIC 3000
+- /html/VCAT_Application_Possession_of_Property_Ref_R202518589_00.html :: VCAT Application – Possession of Property (Ref: R202518589/00)
+- /html/VCAT_Application_R202518214_00_Challenge_to_Notice_to_Vacate.html :: VCAT Application R202518214/00 – Challenge to Notice to Vacate
+- /html/VCAT_Residential_Tenancies_Hub_Please_confirm_your_registration.html :: VCAT Residential Tenancies Hub - Please confirm your registration
+- /html/VCAT_evidence_link_R202518589_about_1803_243_Franklin_Street_MELBOURNE_VIC_3000.html :: VCAT evidence link R202518589 about 1803/243 Franklin Street, MELBOURNE, VIC, 3000
+- /html/VCAT_has_opened_a_case_R202518214_00_about_243_Franklin_St_Unit1803_MELBOURNE_VIC_3000.html :: VCAT has opened a case R202518214/00 about 243 Franklin St, Unit1803, MELBOURNE, VIC, 3000
+- /html/VCAT_order_made_about_R202518214_00_243_Franklin_St_Unit1803_MELBOURNE_VIC_3000.html :: VCAT order made about R202518214/00 243 Franklin St, Unit1803, MELBOURNE, VIC, 3000
+- /html/VCAT_order_made_about_R202518589_00_1803_243_Franklin_Street_MELBOURNE_VIC_3000.html :: VCAT order made about R202518589/00 1803/243 Franklin Street, MELBOURNE, VIC, 3000
+- /html/Vacating_instructions_1803_243_Franklin_Street_Melbourne_VIC_3000.html :: Vacating instructions - 1803/243 Franklin Street, Melbourne VIC 3000
+- /html/Welcome_to_Areal_Property_Your_New_Property_Management_Team.html :: Welcome to Areal Property – Your New Property Management Team
+- /html/Without_Prejudice_Franklin_1803_Settlement_Terms_VCAT_R2025_18589_00.html :: Without Prejudice — Franklin 1803: Settlement Terms (VCAT R2025/18589/00)
+- /html/Your_VCAT_application_more_information_needed_VCAT_reference_R202518214.html :: Your VCAT application: more information needed- VCAT reference: R202518214

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Public Evidence Corpus for RT2513372 (HTML, v1)"
+message: "If you use this corpus, cite this release URL and checksum manifest."
+type: dataset
+authors:
+  - family-names: "KAMNUANSIL"
+    given-names: "CHAWAKORN"
+version: "v1"
+date-released: "2026-03-04"
+url: "https://ck999kk.github.io/rt2513372-public-evidence-v1/index.html"
+keywords:
+  - "Victoria"
+  - "Residential Tenancies"
+  - "VCAT"
+  - "RT2513372"
+license: "CC-BY-4.0"
